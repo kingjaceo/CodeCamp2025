@@ -28,3 +28,14 @@ Briggs Hall, Rhodes College
 * 3 PM: Snack/Break
 * 4 PM: Group Project Work
 * 5 PM: Afternoon Activity and Pickup
+
+## Lessons/Topics
+* Essential Code concepts (variables, functions, operations, conditionals, loops)
+* Essential Code Patterns (counting, accumulating, finding)
+* Working as a Group
+
+## Activities
+* Pool
+* Scavenger Hunt
+* Field Games
+* Movie

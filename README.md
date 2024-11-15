@@ -24,7 +24,7 @@ Besides computer programming, students will learn life skills, including:
 * Working with others
 
 ### Track 1: Escape Room in Scratch
-Over the course of the camp, middle school students will learn the visual programming language Scratch to design and build their own escape rooms.
+Over the course of the camp, middle school students will learn the visual programming language Scratch to design and build their own escape rooms. Students will learn how to:
 
 ### Track 2: Data Science for the Social Good
 Over the course of the camp, high school students will learn fundamental principles of data science using Python, exploring and visualizing data sets and forming hypotheses about the patterns in data.

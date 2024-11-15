@@ -28,22 +28,8 @@ Over the course of the camp, middle school students will learn the visual progra
 
 ### Track 2: Data Science for the Social Good
 Over the course of the camp, high school students will learn fundamental principles of data science using Python, exploring and visualizing data sets and forming hypotheses about the patterns in data.
-  
-## Daily Schedule
-* 8:00-8:30 AM:    Arrival
-* 8:30-9:00 AM:    Morning Activity
-* 9:00-10:00 AM:   Morning Lesson
-* 10:00-10:15 AM:  Break
-* 10:15-11:30 AM:  Group Work
-* 11:30-12:00 PM:  Activity
-* 12 PM-12:45 PM:  Lunch
-* 12:45-1:30 PM:   Afternoon Activity
-* 1:30-2:30 PM:    Afternoon Lesson
-* 2:30-3:00 PM:    Snack/Break
-* 3:00-4:00 PM:    Group Project Work
-* 4:00-4:30 PM:    Afternoon Activity and Pickup
 
-## New schedule
+## Daily Schedule
 * 8:00-9:00 AM:    Arrival and Quiet Time
 * 9:00-10:00 AM:   Morning Activity
 * 10:00-11:45 AM:  Morning Lesson
@@ -52,4 +38,4 @@ Over the course of the camp, high school students will learn fundamental princip
 * 1:30-2:30 PM:    Afternoon Lesson
 * 2:30-3:00 PM:    Snack/Break
 * 3:00 PM:         Early Pickup
-* 3:00-5:00 PM:    After Camp Care
+* 3:00-4:00 PM:    After Camp Care

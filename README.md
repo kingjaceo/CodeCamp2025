@@ -1,41 +1,46 @@
 # Code Camp 2025
 
-## Who?
+### Who?
 High school and middle school students are invited to participate. Students of all backgrounds are welcome: those who have never coded in their lives, and those who have taken several years of coding classes.
 
-## What?
+### What?
 This is a two-week, summer coding camp designed for students for all levels: no coding experience whatsoever through AP- or college-level experience.
 
-## When?
+### When?
 June 23 to July 5 or June 16 to June 27
 
-## Where?
+### Where?
 Briggs Hall, Rhodes College
 
-## Content
-There will be 2 tracks of content, one for middle schoolers and one for high schoolers. Both tracks will be project-based, self-directed learning with instructino and support from Rhodes faculty and student assistants.
+### Content
+Students will spend the first week learning introductory computer programming concepts, structures, and principles. During this time, students will get a plenty of time to practice and work 1-1 with instructors and assistants. Students will spend the second week working on a complex project of their own, alone or with a group.
+* **Day 1:** Variables, Arithmetic, Evaluation
+* **Day 2:** Functions, Arguments, Returns
+* **Day 3:** Conditionals and Flow Control
+* **Day 4:** For Loops and Lists
+* **Day 5:** Strings and Dictionaries
+* **Day 6-10:** Project Work
+* **Supported Projects:**
+  * Mastermind-like game
+  * Graphing calculator
+  * Image processor
 
-Besides computer programming, students will learn life skills, including:
+Besides computer programming, students will other skills, including:
 * Critical thinking
+* Problem solving
 * Reasoning
 * Communication
 * Numerical literacy
 * Self-assessment
 * Working with others
 
-### Track 1: Escape Room in Scratch
-Over the course of the camp, middle school students will learn the visual programming language Scratch to design and build their own escape rooms. Students will learn how to:
-
-### Track 2: Data Science for the Social Good
-Over the course of the camp, high school students will learn fundamental principles of data science using Python, exploring and visualizing data sets and forming hypotheses about the patterns in data.
-
-## Daily Schedule
-* 8:00-9:00 AM:    Arrival and Quiet Time
-* 9:00-10:00 AM:   Morning Activity
+### Daily Schedule
+* 8:00-9:00 AM:    Arrival
+* 9:00-9:30 AM:    Morning Activity
+* 9:30-10 AM:      Practice
 * 10:00-11:45 AM:  Morning Lesson
 * 12:00-12:45 PM:  Lunch
 * 12:45-1:30 PM:   Afternoon Activity
 * 1:30-2:30 PM:    Afternoon Lesson
-* 2:30-3:00 PM:    Snack/Break
-* 3:00 PM:         Early Pickup
-* 3:00-4:00 PM:    After Camp Care
+* 2:30-3:00 PM:    Practice
+* 3:00-3:30 PM:    Pickup / Free Time

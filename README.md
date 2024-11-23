@@ -19,11 +19,13 @@ Students will spend the first week learning introductory computer programming co
 * **Day 3:** Conditionals and Flow Control
 * **Day 4:** For Loops and Lists
 * **Day 5:** Strings and Dictionaries
-* **Day 6-10:** Project Work
+* **Day 6-9:** Project Work
 * **Supported Projects:**
-  * Mastermind-like game
+  * Mastermind game
   * Graphing calculator
   * Image processor
+* **Day 10:** Finish Projects and Project Showcase
+
 
 Besides computer programming, students will other skills, including:
 * Critical thinking
